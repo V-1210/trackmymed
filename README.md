@@ -1,38 +1,40 @@
 # 💊 TrackMyMed
 
-TrackMyMed is a healthcare-focused web application that helps users access medicine information, check availability, and track medicine packages.
+TrackMyMed is a web-based healthcare application designed to help users access medication information, check availability, and track medicine packages.
 
 ## Features
 
-✅ Medicine information database
-
-✅ Dosage and symptom reference
-
-✅ Medicine availability checker
-
-✅ Package tracking interface
-
-✅ Help and support portal
+- Browse medicine information
+- View dosage and symptom details
+- Check medicine availability
+- Track medicine packages
+- Access help and support resources
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/home.png)
+![Homepage](homepage.png)
 
-### Drug Availability
-![Availability](screenshots/availability.png)
+### Drug Availability Search
+![Availability](availability.png)
+
+### Availability Result
+![Availability Result](availability1.png)
 
 ### Package Tracking
-![Tracking](screenshots/tracking.png)
+![Package Tracking](tracking.png)
+
+### Help Center
+![Help](help.png)
 
 ### Contact Page
-![Contact](screenshots/contact.png)
+![Contact](contact.png)
 
 ## Future Improvements
 
